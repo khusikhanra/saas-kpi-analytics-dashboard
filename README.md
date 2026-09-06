@@ -55,7 +55,8 @@ Every number on every dashboard page traces back to one auditable source: `data/
 
 ## Architecture
 
-![Architecture](docs/images/05_architecture.png)
+<img width="2600" height="1120" alt="2" src="https://github.com/user-attachments/assets/5e52eee8-9081-4ece-87b8-dcb165fefbdf" />
+
 
 | Stage | Tool | What happens |
 |---|---|---|
