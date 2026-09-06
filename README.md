@@ -7,7 +7,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-KPI%20Views-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Executive%20Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/status-portfolio%20project-34D399?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-9CA3AF?style=flat-square)
 
 **A full analytics-engineering pipeline for a simulated SaaS business — from a first-principles financial model in Excel, through a reproducible Python cleaning layer and a PostgreSQL analytics schema, to a 5-page executive Power BI report with 49 DAX measures.**
