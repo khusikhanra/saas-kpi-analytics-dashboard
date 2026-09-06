@@ -1,4 +1,5 @@
-![SaaS Executive KPI Analytics](docs/images/00_hero_banner.png)
+<img width="2800" height="680" alt="1" src="https://github.com/user-attachments/assets/6b63c20a-24fe-46c1-869d-ec474b5459c3" />
+
 
 <div align="center">
 
@@ -53,7 +54,8 @@ Excel financial model  →  Python/pandas cleaning  →  tidy CSV  →  PostgreS
 
 ## Architecture
 
-![Architecture](docs/images/01_architecture.png)
+<img width="2600" height="1120" alt="2" src="https://github.com/user-attachments/assets/7ba1db2f-464f-48f5-aa4a-575f8c6b0223" />
+
 
 | Stage | Tool | What happens |
 |---|---|---|
