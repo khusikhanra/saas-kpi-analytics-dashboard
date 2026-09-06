@@ -278,7 +278,8 @@ This is a common and easy-to-miss mistake in notebook-driven workflows (cells ge
 
 ## Author & credits
 
-Built by **Khusi Khanra** — [github.com/khusikhanra](https://github.com/khusikhanra) (credit as embedded in the dashboard's *About* page; update this section if that attribution needs to change).
+Built by **Khusi Khanra** 
+[github.com/khusikhanra](https://github.com/khusikhanra) 
 
 ## License
 
