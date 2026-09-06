@@ -91,27 +91,32 @@ Five pages, captured directly from Power BI Desktop.
 ### 1 · Executive Summary
 One-screen health check: headline KPI cards, MRR and subscriber trends, a Revenue vs. Expenses combo chart, a revenue-composition donut, a `Business Health Score` gauge, and auto-generated key-insight callouts.
 
-![Executive Summary](docs/images/02_dashboard_executive_summary.png)
+<img width="1201" height="675" alt="3" src="https://github.com/user-attachments/assets/91ac2e20-3315-4b52-b44e-ff8dbbaddbfe" />
+
 
 ### 2 · Revenue & Subscribers
 Plan revenue mix over time, a monthly-cohort retention heatmap, a plan/region revenue treemap, and a detailed insights table (CAC, churn risk, expansion MRR, LTV:CAC, and more).
 
-![Revenue & Subscribers](docs/images/03_dashboard_revenue_subscribers.png)
+<img width="1201" height="675" alt="4" src="https://github.com/user-attachments/assets/6d7bd9f2-a3e0-43eb-813b-be9c9750307e" />
+
 
 ### 3 · Unit Economics & Efficiency
 LTV/CAC trend over a trailing 12 months, a lead-to-paid funnel, CAC breakdown by acquisition channel, and a per-segment unit-economics table.
 
-![Unit Economics](docs/images/04_dashboard_unit_economics.png)
+<img width="1201" height="675" alt="5" src="https://github.com/user-attachments/assets/4b45c4ea-74b6-486e-b816-c4b1ab361a33" />
+
 
 ### 4 · Financials & Cash Flow
 Gross/net margin, OpEx, monthly burn rate and cash runway cards; a 12-month revenue-vs-expenses-vs-burn chart; and a QTD cash-position waterfall bridge.
 
-![Financials & Cash Flow](docs/images/05_dashboard_financials_cashflow.png)
+<img width="1201" height="675" alt="6" src="https://github.com/user-attachments/assets/a601273d-5ead-4202-9f5a-ca3488c9a7a2" />
+
 
 ### 5 · About / Info
 A documentation-in-product page: what the report answers, how to use it, metric-definition notes, and developer credit.
 
-![About / Info](docs/images/06_dashboard_about_info.png)
+<img width="1201" height="675" alt="7" src="https://github.com/user-attachments/assets/50651805-9ed4-4320-8f38-8e7916ca9e64" />
+
 
 ## The dataset
 
@@ -198,11 +203,15 @@ For comparison, here's what you get computing metrics directly from `Cleaned_Saa
 
 | MRR / ARR growth | Subscriber mix |
 |---|---|
-| ![MRR ARR](docs/images/07_csv_mrr_arr_growth.png) | ![Subscriber mix](docs/images/08_csv_subscriber_mix.png) |
+| <img width="2200" height="1040" alt="8" src="https://github.com/user-attachments/assets/01d0d3ba-0098-4702-802f-5cc56b826aff" />
+ | <img width="2200" height="1040" alt="9" src="https://github.com/user-attachments/assets/7b455814-f6a5-4e82-b21a-c8f59a50d827" />
+ |
 
 | LTV vs. CAC by segment (base model) | Burn vs. cash balance |
 |---|---|
-| ![LTV CAC](docs/images/09_csv_ltv_cac.png) | ![Burn vs cash](docs/images/10_csv_burn_vs_cash.png) |
+| <img width="2200" height="1040" alt="10" src="https://github.com/user-attachments/assets/52c10aab-284d-45e1-b944-110389d5811c" />
+ | <img width="2200" height="1040" alt="11" src="https://github.com/user-attachments/assets/48b6e062-775e-484e-988d-40bed7be0e15" />
+ |
 
 ## Getting started
 
