@@ -296,8 +296,9 @@ Open `pbix/SaaS_Executive_KPI_Dashboard.pbix` in **Power BI Desktop** and point 
 
 ## Author & credits
 
-Built by **Khusi Khanra** — [github.com/khusikhanra](https://github.com/khusikhanra) (credit as shown on the dashboard's *About* page).
+Built by **Khusi Khanra**  
 
+[![GitHub](https://img.shields.io/badge/GitHub-khusikhanra-181717?style=flat-square&logo=github)](https://github.com/khusikhanra)
 ## License
 
 This project is provided under the [MIT License](https://opensource.org/licenses/MIT) — feel free to fork, adapt, and reuse the pipeline structure for your own portfolio or teaching purposes. The underlying financial figures are entirely synthetic.
