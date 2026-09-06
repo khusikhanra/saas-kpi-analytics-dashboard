@@ -1,4 +1,5 @@
-![SaaS Executive KPI Analytics](docs/images/00_hero_banner.png)
+<img width="2800" height="680" alt="1" src="https://github.com/user-attachments/assets/d46ff7d1-da32-4184-bd1d-1f61c90a44de" />
+
 
 <div align="center">
 
