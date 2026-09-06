@@ -279,6 +279,7 @@ This is a common and easy-to-miss mistake in notebook-driven workflows (cells ge
 ## Author & credits
 
 Built by **Khusi Khanra** 
+
 [github.com/khusikhanra](https://github.com/khusikhanra) 
 
 ## License
