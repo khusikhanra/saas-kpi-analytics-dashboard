@@ -201,18 +201,6 @@ For comparison, here's what you get computing metrics directly from `Cleaned_Saa
 
 **The honest read of these numbers:** unit economics are genuinely strong (7.8× LTV:CAC, 1.6-month payback, 86% gross margin), but the model **never reaches profitability inside its own 5-year window** — net margin improves from −2,015% to −31%, a real trajectory, but still a loss at the end. The Burn Multiple (~11.5× average, ~2.3× by year 5) says the same thing from a capital-efficiency angle: cheap customer acquisition is being offset by a cost base that scales ahead of revenue in the model's assumptions. Subscriber growth is also a fixed 10%/7% monthly compounding rate with no saturation curve, so treat the 147,786-subscriber endpoint as "what the input growth rate implies," not a market-sized forecast. The $1,000,000 ending cash balance is a modeling assumption (it matches the `Assumptions` sheet input exactly), not a derived result — the model assumes a ~$21.4M raise happens rather than testing whether it's earned.
 
-| MRR / ARR growth | Subscriber mix |
-|---|---|
-| <img width="2200" height="1040" alt="8" src="https://github.com/user-attachments/assets/01d0d3ba-0098-4702-802f-5cc56b826aff" />
- | <img width="2200" height="1040" alt="9" src="https://github.com/user-attachments/assets/7b455814-f6a5-4e82-b21a-c8f59a50d827" />
- |
-
-| LTV vs. CAC by segment (base model) | Burn vs. cash balance |
-|---|---|
-| <img width="2200" height="1040" alt="10" src="https://github.com/user-attachments/assets/52c10aab-284d-45e1-b944-110389d5811c" />
- | <img width="2200" height="1040" alt="11" src="https://github.com/user-attachments/assets/48b6e062-775e-484e-988d-40bed7be0e15" />
- |
-
 ## Getting started
 
 ### 1. Regenerate the cleaned dataset (optional — it's already committed)
